@@ -9,7 +9,7 @@ public class Task2 {
         int[] array3 = getDifference(array1, array2);
 
         for (int i = 0; i < array3.length; i++) {
-            System.out.print(array3[i] + ", ");
+            System.out.print(array3[i] + " ");
         }
     }
 

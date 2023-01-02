@@ -7,7 +7,7 @@ public class Task3 {
         int[] array3 = getQuotient(array1, array2);
 
         for (int i = 0; i < array3.length; i++) {
-            System.out.print(array3[i] + ", ");
+            System.out.print(array3[i] + " ");
         }
     }
     public static int[] getQuotient(int[] array1, int[] array2) {
